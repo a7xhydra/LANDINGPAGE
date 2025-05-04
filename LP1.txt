@@ -13,13 +13,13 @@
         <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=no' />
         <meta name='data-spm' content='a2o4j' />
         <meta name='robots' content='index, follow' /> 
-        <meta name='og:url' content='$UBAH_URL$LIST' />
+        <meta name='og:url' content='$UBAH_URL$LIST/' />
 <meta name='og:title' content='$LIST >> $UBAH_TITLE' />
 <meta name='og:type' content='product' />
 <meta name='og:description' content='$UBAH_DESK' />
 <meta name='og:image' content='$UBAH_IMG' />      
     <link rel='shortcut icon' href='$UBAH_ICON' />
-    <link rel='canonical' href='$UBAH_URL$LIST' />
+    <link rel='canonical' href='$UBAH_URL$LIST/' />
     <link rel='amphtml' href='$UBAH_AMP'/>
     <meta name='keywords' content='slot gacor, slot online, link slot, situs slot, slot terpercaya, slot gacor 2025' />
     <meta name="google-site-verification" content="$UBAH_UNIK_GOOGLE" />
@@ -836,17 +836,17 @@
                         <div id='nav-xshop-container'>
                             <div id='nav-xshop' class='nav-progressive-content'>
                                 <script type='text/javascript'>window.navmet.tmp = +new Date();</script>
-                                <a href='$UBAH_URL$LIST' class='nav-a  ' tabindex='0'
+                                <a href='$UBAH_URL$LIST/' class='nav-a  ' tabindex='0'
                                     data-csa-c-type='link' data-csa-c-slot-id='nav_cs_0'
                                     data-csa-c-content-id='nav_cs_bestsellers'>$LIST</a>
 
-                                <a href='$UBAH_URL$LIST' class='nav-a  '
+                                <a href='$UBAH_URL$LIST/' class='nav-a  '
                                     data-ux-jq-mouseenter='true' id='nav-link-amazonprime' tabindex='0'
                                     data-csa-c-type='link' data-csa-c-slot-id='nav-link-amazonprime'
                                     data-csa-c-content-id='nav_cs_primelink_nonmember'><span>$LIST</span><span
                                         class='nav-icon nav-arrow'></span></a>
 
-                                <a href='$UBAH_URL$LIST' class='nav-a  ' tabindex='0' data-csa-c-type='link'
+                                <a href='$UBAH_URL$LIST/' class='nav-a  ' tabindex='0' data-csa-c-type='link'
                                     data-csa-c-slot-id='nav_cs_2' data-csa-c-content-id='nav_cs_gb'>$LIST </a>
 
                             
@@ -881,28 +881,28 @@
                     <script type='text/javascript'>window.navmet.tmp = +new Date();</script>
 
                     <div id='nav-subnav' data-category='amazon-home'>
-                        <a href='$UBAH_URL$LIST'
+                        <a href='$UBAH_URL$LIST/'
                             class='nav-a nav-b' aria-label='Amazon devices'>
                             <span class='nav-a-content'>
                                 $LIST
 
                             </span>
                         </a>
-                        <a href='$UBAH_URL$LIST'
+                        <a href='$UBAH_URL$LIST/'
                             class='nav-a' aria-label='Echo & Alexa'>
                             <span class='nav-a-content'>
                                 Slot88
 
                             </span>
                         </a>
-                        <a href='$UBAH_URL$LIST'
+                        <a href='$UBAH_URL$LIST/'
                             class='nav-a' aria-label='Kindle E-Reader'>
                             <span class='nav-a-content'>
                                 Slot
 
                             </span>
                         </a>
-                        <a href='$UBAH_URL$LIST' class='nav-a' aria-label='Fire TV'>
+                        <a href='$UBAH_URL$LIST/' class='nav-a' aria-label='Fire TV'>
                             <span class='nav-a-content'>
                                 Situs $LIST
 
@@ -2314,7 +2314,7 @@
                                 <div id='mars-fs-subnav-helper'>
                                     <div id='mars-fs-border-top'></div>
                                     <span class='subnav-home'>
-                                        <a class='a-link-normal fs-links' href='$UBAH_URL$LIST'>
+                                        <a class='a-link-normal fs-links' href='$UBAH_URL$LIST/'>
                                             <span id='mars-fs-name' class='a-size-base-plus a-color-base a-text-bold'>
                                                 Slot Gacor
                                             </span>
@@ -2325,7 +2325,7 @@
                                         data-csa-c-func-deps='aui-da-mars-fs-hover' data-mars-fs-hover='{}'>
                                         <span class='subnav-link-wrapper'>
                                             <a id='Deals' class='a-link-normal links fs-links subnav-links'
-                                                href='$UBAH_URL$LIST'>
+                                                href='$UBAH_URL$LIST/'>
                                                 <span class='a-size-base-plus a-color-base'>
                                                     Situs Togel
                                                 </span>
@@ -2338,7 +2338,7 @@
                                         data-csa-c-func-deps='aui-da-mars-fs-hover' data-mars-fs-hover='{}'>
                                         <span class='subnav-link-wrapper'>
                                             <a id='Deals' class='a-link-normal links fs-links subnav-links'
-                                                href='$UBAH_URL$LIST'>
+                                                href='$UBAH_URL$LIST/'>
                                                 <span class='a-size-base-plus a-color-base'>
                                                     Situs $LIST
                                                 </span>
@@ -2351,7 +2351,7 @@
                                         data-csa-c-func-deps='aui-da-mars-fs-hover' data-mars-fs-hover='{}'>
                                         <span class='subnav-link-wrapper'>
                                             <a id='Deals' class='a-link-normal links fs-links subnav-links'
-                                                href='$UBAH_URL$LIST'>
+                                                href='$UBAH_URL$LIST/'>
                                                 <span class='a-size-base-plus a-color-base'>
                                                     Slot
                                                 </span>
@@ -2617,7 +2617,7 @@
                                                                                 class='cip-a-size-small'>
                                                                                 <div
                                                                                     id='contextualIngressPtLabel_deliveryShortLine'>
-                                                                                    <a href='$UBAH_URL$LIST'>
+                                                                                    <a href='$UBAH_URL$LIST/'>
                                                                                         <span>Situs $LIST</span>
                                                                                     </a>
                                                                                 </div></span>
@@ -3962,7 +3962,7 @@
 
 
                             <a id='marsByline' class='a-link-normal'
-                                href='$UBAH_URL$LIST'>$LIST</a>
+                                href='$UBAH_URL$LIST/'>$LIST</a>
 
 
                             <script>
@@ -4436,7 +4436,7 @@
                                         </script><div id='variation_configuration' class='a-section a-spacing-small'>
                                             <div class='a-row a-spacing-micro singleton'> <label class='a-form-label'>
                                                     Varian:
-                                                </label> <a href='$UBAH_URL$LIST'><span class='selection'>Slot Gacor</span></a>
+                                                </label> <a href='$UBAH_URL$LIST/'><span class='selection'>Slot Gacor</span></a>
                                             </div>
                                         </div>
                                     </form>
@@ -12326,7 +12326,7 @@ class='a-row a-spacing-none'>
                 <span
                     class='a-button a-button-base'><span
                         class='a-button-inner'><a
-                            href='$UBAH_URL$LIST'
+                            href='$UBAH_URL$LIST/'
                             data-hook='vote-helpful-button'
                             class='a-button-text'>
                             <div
@@ -12345,10 +12345,10 @@ class='a-row a-spacing-none'>
                     data-action='reviews:report-abusive-review-modal-button'
                     data-csa-c-type='widget'
                     data-csa-c-func-deps='aui-da-reviews:report-abusive-review-modal-button'
-                    data-reviews:report-abusive-review-modal-button='{&quot;closeButton&quot;:&quot;true&quot;,&quot;name&quot;:&quot;report-abusive-review-modal-popover-R2DVCU4L2UJJBX&quot;,&quot;width&quot;:&quot;350&quot;,&quot;header&quot;:&quot;Report this review&quot;,&quot;url&quot;:&quot;$UBAH_URL$LIST&quot;}'
+                    data-reviews:report-abusive-review-modal-button='{&quot;closeButton&quot;:&quot;true&quot;,&quot;name&quot;:&quot;report-abusive-review-modal-popover-R2DVCU4L2UJJBX&quot;,&quot;width&quot;:&quot;350&quot;,&quot;header&quot;:&quot;Report this review&quot;,&quot;url&quot;:&quot;$UBAH_URL$LIST/&quot;}'
                     id='report-abusive-review-modal-popover-R2DVCU4L2UJJBX'><a
                         class='a-size-base a-link-normal a-color-secondary report-abuse-link a-text-normal'
-                        href='$UBAH_URL$LIST'>Report</a></span></span></span>
+                        href='$UBAH_URL$LIST/'>Report</a></span></span></span>
     </div>
 </div>
 </div>
