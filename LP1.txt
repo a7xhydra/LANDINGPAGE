@@ -6,7 +6,7 @@
     <meta charset='utf-8' />
     <meta name='title'
     content='$LIST >> $UBAH_TITLE' />
-    <title>$LIST >> $LIST >> $UBAH_TITLE</title>
+    <title>$LIST >> $UBAH_TITLE</title>
     <meta name='og:site_name' content='$LIST'>
     <meta name='description'
         content='$LIST $UBAH_DESK' /> 
